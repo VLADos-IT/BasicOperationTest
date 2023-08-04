@@ -7,5 +7,9 @@ This program testing basic operation on C++.
 - Working with random variable
 - Validate user input 
 - Math operation in C++
+- Pause program
+- Operation with variables
+- Checking the states
+- Logical testing
 
 **Testing and enjoy this program!**
