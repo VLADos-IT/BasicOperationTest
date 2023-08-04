@@ -1,6 +1,10 @@
-# First program on C++
-## Basic operation test program on C++
+﻿███ ███ ███ ███ ███ ┼┼ ███++ ┼┼ ███ ███ ███ ████ ███ ███ █▄┼▄█
+█▄┼ ┼█┼ █▄┼ █▄▄ ┼█┼ ┼┼ █┼┼++ ┼┼ █▄█ █▄┼ █┼█ █┼▄▄ █▄┼ █▄█ █┼█┼█
+█┼┼ ▄█▄ █┼█ ▄▄█ ┼█┼ ┼┼ ███++ ┼┼ █┼┼ █┼█ █▄█ █▄▄█ █┼█ █┼█ █┼┼┼█
 
+# My first program on C++
+## Basic operation test program on C++
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/c.svg' alt='C++' weight='140' height='140'>](https://learn.microsoft.com/en-us/cpp/)  
 This program testing basic operation on C++.
 
 - Check variables on  C++
@@ -8,4 +12,4 @@ This program testing basic operation on C++.
 - Validate user input 
 - Math operation in C++
 
-**Testing and enjoy program**
+**Testing and enjoy this program!**

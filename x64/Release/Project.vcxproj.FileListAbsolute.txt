@@ -1,1 +1,3 @@
 D:\User\Desktop\Projects\Project\x64\Release\FirstProgramC++.exe
+D:\User\Desktop\Projects\Project\x64\Release\FirstProgramC++.exe.lastcodeanalysissucceeded
+D:\User\Desktop\Projects\Project\x64\Release\NativeCodeAnalysis.read.1.tlog
