@@ -14,7 +14,7 @@ int main()
 	srand(static_cast<unsigned>(time(nullptr))); // NOLINT(cert-msc51-cpp)
 
 	a = rand() % 1000; // NOLINT(concurrency-mt-unsafe)
-	const int tester = a;
+	const int checker = a;
 	std::cout << "Test program by VLADos-it" << std::endl;
 	std::cout << "Press ENTER for start program...";
 	cin.get();
@@ -27,7 +27,7 @@ int main()
 	{
 		std::cout << "User check value a, please repeat value a equal value on a console! Input a: ";
 		std::cin >> a;
-		if (a == tester) break;
+		if (a == checker) break;
 		std::cout << "Answer wrong. Retry please!" << std::endl;
 	}
 	std::cout << "Thank you! Please enter multiplier for value a: ";
