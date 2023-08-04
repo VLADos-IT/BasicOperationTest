@@ -1,6 +1,6 @@
 # My first program on C++
 ## Basic operation test program on C++
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/c.svg' alt='C++' weight='140' height='140'>](https://learn.microsoft.com/en-us/cpp/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/c.svg' alt='C++' weight='160' height='160'>](https://learn.microsoft.com/en-us/cpp/)  
 This program testing basic operation on C++.
 
 - Check variables on  C++
