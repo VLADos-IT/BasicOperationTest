@@ -35,7 +35,7 @@ int main()
 	std::cout << "Before multiply program want add any value with value a" << std::endl;
 	std::cout << "Please enter number for addendum with value a: ";
 	std::cin >> addendum;
-	a = (a + addendum) * multiplier;
+	a = (a * multiplier) + addendum;
 	system("cls"); // NOLINT(concurrency-mt-unsafe)
 	std::cout << "Your answer on value a (after multiply and addition): " << a << "\n";
 	std::cout << "b = " << b << "\n";
@@ -48,7 +48,7 @@ int main()
 		if (boolean == 0) break;
 		if (boolean == 1)
 		{
-			std::cout << "Enter the number to be added: ";
+			std::cout << "Enter the number for addendum: ";
 			std::cin >> add_b; // NOLINT(clang-diagnostic-misleading-indentation)
 			break;
 		}
@@ -64,9 +64,9 @@ int main()
 	std::cout << "Thanks for a test my program. I very happy, thanks you watch:)" << std::endl;
 	while (true)
 	{
-		std::cout << "If you want exit this program, write number > final answer" << std::endl;
+		std::cout << "If you want exit this program, write number = final answer" << std::endl;
 		std::cin >> c;
-		if (c > answ) break;
+		if (c == answ) break;
 		std::cout << "Number incorrect!" << std::endl;
 	}
 	system("cls"); // NOLINT(concurrency-mt-unsafe)
