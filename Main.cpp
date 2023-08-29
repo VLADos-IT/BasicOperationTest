@@ -1,4 +1,4 @@
-﻿#include<cstdlib>
+﻿#include <cstdlib>
 #include <iostream>
 int b = 0, c = 0;
 int answ = 0;
