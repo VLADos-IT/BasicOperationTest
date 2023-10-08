@@ -35,7 +35,7 @@ int main()
     cin >> addendum;
 	a = (a * multiplier) + addendum;
     system("cls");
-    cout << "Your answer on value a (after multiply and addition): " << a << "\n";
+    cout << "a = " << a << "\n";
     cout << "b = " << b << "\n";
 	while (true)
 	{
