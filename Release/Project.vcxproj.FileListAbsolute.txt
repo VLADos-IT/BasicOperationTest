@@ -1,2 +1,0 @@
-D:\User\Desktop\Projects\Project\Release\FirstProgramC++.exe
-D:\User\Desktop\Projects\BasicOperationTest\Release\FirstProgramC++.exe

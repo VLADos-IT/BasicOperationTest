@@ -1,0 +1,3 @@
+C:/Users/vlcom/Desktop/BasicOperationTest/cmake-build-debug/CMakeFiles/BasicOperationTest.dir
+C:/Users/vlcom/Desktop/BasicOperationTest/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/vlcom/Desktop/BasicOperationTest/cmake-build-debug/CMakeFiles/rebuild_cache.dir

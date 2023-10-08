@@ -1,0 +1,9 @@
+# ninja log v5
+1	720	7184899757406138	CMakeFiles/BasicOperationTest.dir/Main.cpp.obj	cc43c78893351a57
+725	1136	7184899761415841	BasicOperationTest.exe	8a22261d863659f9
+7	1185	7184906066919791	CMakeFiles/BasicOperationTest.dir/Main.cpp.obj	cc43c78893351a57
+1186	1410	7184906069283315	BasicOperationTest.exe	8a22261d863659f9
+4	637	7184909872207548	CMakeFiles/BasicOperationTest.dir/Main.cpp.obj	cc43c78893351a57
+638	787	7184909873640714	BasicOperationTest.exe	8a22261d863659f9
+4	603	7184912780034317	CMakeFiles/BasicOperationTest.dir/Main.cpp.obj	cc43c78893351a57
+603	765	7184912781597945	BasicOperationTest.exe	8a22261d863659f9
