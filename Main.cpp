@@ -1,5 +1,5 @@
-﻿#include <iostream>
-
+#include <iostream>
+#include <time.h>
 using namespace std;
 int b = 0, c = 0;
 int solution = 0;
@@ -11,6 +11,7 @@ int add_b;
 
 int main()
 {
+    srand(time((NULL)));
     a = rand() % 1000; // NOLINT(*-msc50-cpp)
 	const int checker = a;
     cout << "Test program by VLADos-it" << endl;
